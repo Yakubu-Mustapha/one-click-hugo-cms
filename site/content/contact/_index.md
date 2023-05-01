@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Yakubu"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
